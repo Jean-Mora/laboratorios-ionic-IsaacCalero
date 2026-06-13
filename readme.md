@@ -2,9 +2,9 @@
 
 ## Información del Estudiante
 
-- **Nombre:** [Tu nombre completo aquí]
-- **Carrera:** [Tu carrera]
-- **Fecha de inicio:** [Fecha]
+- **Nombre:** Isaac Calero
+- **Carrera:** PUCETEC Desarrollo de Software
+- **Fecha de inicio:** 13/06/2026
 
 ---
 
